@@ -1,4 +1,4 @@
-# **Deep Learning Algorithms – From Scratch 🚀**  
+# **Deep Learning Algorithms using Numpy – From Scratch 🚀**  
 
 This repository is dedicated to **building deep learning algorithms from scratch**, without relying on built-in libraries. It’s easy to write a few lines of code using pre-built functions, but truly understanding how things work under the hood **sets you apart** from others in the field.  
 
