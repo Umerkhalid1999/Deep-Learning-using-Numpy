@@ -18,7 +18,8 @@ This repo is designed to help **beginners and intermediate-level learners** gain
 ✅ **Basic Neural Networks** – The foundation of deep learning.  
 ✅ **Logistic Regression (with Neural Networks)** – Understanding linear classifiers deeply.  
 ✅ **Autoencoders** – Learn how unsupervised learning can reconstruct data.  
-✅ **RNNs (Recurrent Neural Networks)** – Master sequence-based models.  
+✅ **RNNs (Recurrent Neural Networks)** – Master sequence-based models.   
+✅ **Self-Attention Forward Pass** –  recalculates word representations based on context.  
 ✅ **LSTMs (Long Short-Term Memory Networks)** – Solve vanishing gradient issues in RNNs.  
 ✅ **GANs (Generative Adversarial Networks)** – Create and generate new data with adversarial learning.  
 
